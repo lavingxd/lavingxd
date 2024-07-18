@@ -1,8 +1,8 @@
 Hello world, this is Laving
 
 ![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=thelaving&color=red)&nbsp;
-[![GitHub Laving](https://img.shields.io/github/followers/thelaving?label=follow&style=social)](https://github.com/lavingxd)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=lavingxd&color=red)&nbsp;
+[![GitHub Laving](https://img.shields.io/github/followers/lavingxd?label=follow&style=social)](https://github.com/lavingxd)&nbsp;
 <a href="https://instagram.com/lavingxd"><img src="https://img.shields.io/badge/@lavingxd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Langauges I Know:
